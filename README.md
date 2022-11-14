@@ -26,7 +26,7 @@ cp .env.example .env
 ### Don't forget to create a database with the same name in <code>.env</code> file
 - run this commands .
 ``` 
-php artisan migrate:fresh --seed
+php artisan migrate --seed
 ```
 - Generate a new application key.
 ```
