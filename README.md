@@ -37,7 +37,7 @@ php artisan key:generate
 php artisan serve 
 ```
 
-- [postman collection](https://laravel.com/docs/9.x/sanctum).
+- [postman collection](https://documenter.getpostman.com/view/20750849/2s8YevpA55).
 
 ### By default, there is an admin account 
 - email: abdulrahemalz1@gmail.com
